@@ -4,7 +4,7 @@
 
 标记语言不需要编译等过程，他只需要通过浏览器进行渲染，我们挑选一款浏览器装在机器上即可(我直接使用了Windows自带的edge，我感觉用火狐的好像挺多)
 
-![浏览器笑话](pics/pic1.jpg)
+![浏览器笑话](/pics/pic1.jpg)
 
 除此之外我们要挑选一个适合编写html文件的环境，我使用了上本科以来一直使用的**VScode**
 下载**svg拓展**帮助我们高亮显示标签和层次结构以及预览界面
@@ -99,6 +99,6 @@ XML 被设计用来传输和存储数据，不用于表现和展示数据，HTML
 所有的图片再单独保存到一个pic文件夹
 注意url编写的规范
 
-![working0](pics/pic3.png)
+![working0](/pics/pic3.png)
 
-![working1](pics/pic4.png)
+![working1](/pics/pic4.png)
